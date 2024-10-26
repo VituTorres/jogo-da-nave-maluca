@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dgaui6b2yifbo"]
+
+[ext_resource type="Script" path="res://space_background.gd" id="1_xhqpw"]
+
+[node name="SpaceBackground" type="Node2D"]
+script = ExtResource("1_xhqpw")
